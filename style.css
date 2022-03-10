@@ -1,0 +1,25 @@
+body {
+    font-family: 'Smooch Sans', serif;
+    background-color: aliceblue;
+}
+.header_div {
+    background-color: antiquewhite;
+    color: aqua;
+}
+.header_div_p {
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.5cm;
+    font-size: medium;
+}
+.copy_right_footer {
+    background-color: azure;
+    color: beige;
+    font-size: small;
+    position: fixed;
+    line-height: 1cm;
+    text-shadow: 4px 4px 2px rgba(150, 150, 150, 1);;
+    bottom: 0;
+    width: 100%;
+}
